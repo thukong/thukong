@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thukong or Thiago Rocha 
 - 👀 I’m interested in learning to someday help the community
 - 🌱 I’m currently learning HTML/CSS and C
-- 💞️ I’m looking to collaborate on any future project I may be able to contribute in the future
+- 💞️ I’m looking to collaborate on any project I may be able to contribute in the future
 - 📫 How to reach me @thukong on Twitter
 
 <!---
